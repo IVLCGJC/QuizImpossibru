@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context="com.example.android.quizimpossibru.QuizImpossibru">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/question_text"
+            style="@style/questionStyle"
+            android:text="@string/q3" />
+
+        <CheckBox
+            android:id="@+id/answer_a"
+            style="@style/answerStyle"
+            android:onClick="AAnswerSelected"
+            android:text="@string/aa2" />
+
+        <CheckBox
+            android:id="@+id/answer_b"
+            style="@style/answerStyle"
+            android:onClick="BAnswerSelected"
+            android:text="@string/ab2" />
+
+        <CheckBox
+            android:id="@+id/answer_c"
+            style="@style/answerStyle"
+            android:onClick="CAnswerSelected"
+            android:text="@string/ac2" />
+
+        <CheckBox
+            android:id="@+id/answer_d"
+            style="@style/answerStyle"
+            android:onClick="DAnswerSelected"
+            android:text="@string/ad2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/counter_text"
+            style="@style/questionStyle"
+            android:text="@string/place_number" />
+
+        <Button
+            android:id="@+id/next_button"
+            style="@style/buttonStyle"
+            android:onClick="nextQuestion"
+            android:text="@string/next" />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Quiz Impossibru</string>
+    <string name="a_ta">Answer A</string>
+    <string name="a_tb">Answer B</string>
+    <string name="a_tc">Answer C</string>
+    <string name="a_td">Answer D</string>
+    <string name="next">Next question</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="place_number">99</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="correct">Correct answer!</string>
+    <string name="wrong">Wrong answer!</string>
+    <string name="finish">You have finished the quiz.</string>
+    <string name="score">Your score:</string>
+    <string name="star">***</string>
+    <string name="restart">Restart Quiz?</string>
+    <string name="are_you_sure_you_want_to_quit">Are you sure you want to quit? If so press back again.</string>
+    <string name="error">Error</string>
+
+    <string name="q1">What is the decimal value of the following binary: 11101011010101100</string>
+    <string name="aa1">50882</string>
+    <string name="ab1">120492</string>
+    <string name="ac1">180715</string>
+    <string name="ad1">271115</string>
+    <string name="ca1">2</string>
+
+    <string name="q2">What is love?</string>
+    <string name="aa2">Baby don"'t hurt me</string>
+    <string name="ab2">Strong affection for another arising out of kinship or personal ties</string>
+    <string name="ac2">The object of attachment, devotion, or admiration</string>
+    <string name="ad2">Awwwwwww, hmmmmmmm, cuddle-cuddle-cuddle etc.</string>
+    <string name="ca2">10</string>
+
+    <string name="q3">Which one is the biggest and known star in the Universe of these?</string>
+    <string name="aa3">V354 Cephei</string>
+    <string name="ab3">Mu Cephei</string>
+    <string name="ac3">RW Cephei</string>
+    <string name="ad3">VV Cephei A</string>
+    <string name="ca3">3</string>
+
+    <string name="q4">What is your name?</string>
+    <string name="aa4">R2-D2</string>
+    <string name="ab4">C-3PO</string>
+    <string name="ac4">R3-S1</string>
+    <string name="ad4">Droideka</string>
+    <string name="ca4">0</string>
+
+    <string name="q5">What is the shape of the Earth?</string>
+    <string name="aa5">Geoid</string>
+    <string name="ab5">Ball</string>
+    <string name="ac5">It is flat!!! Everybody is lying, IT IS FLAT!!!</string>
+    <string name="ad5">Sphere</string>
+    <string name="ca5">1</string>
+
+    <string name="q6">Is it empty?</string>
+    <string name="aa6"></string>
+    <string name="ab6">Empty</string>
+    <string name="ac6">.</string>
+    <string name="ad6"></string>
+    <string name="ca6">5</string>
+
+    <string name="q7">Is the cat alive?</string>
+    <string name="aa7">Yes</string>
+    <string name="ab7">No</string>
+    <string name="ac7">Both</string>
+    <string name="ad7">Let"'s open the box!</string>
+    <string name="ca7">7</string>
+
+    <string name="q8">World population reached 1 Billion in which year?</string>
+    <string name="aa8">1804</string>
+    <string name="ab8">1856</string>
+    <string name="ac8">1901</string>
+    <string name="ad8">1927</string>
+    <string name="ca8">1</string>
+
+    <string name="q9">Which muscle(s) can pull with the greatest force?</string>
+    <string name="aa9">Gluteus Maximus</string>
+    <string name="ab9">Soleus</string>
+    <string name="ac9">Masseter</string>
+    <string name="ad9">Muscles of the Uterus</string>
+    <string name="ca9">2</string>
+
+    <string name="q10">Which is the plant which try to kill you numerous ways amongst these?</string>
+    <string name="aa10">Deadly nightshade</string>
+    <string name="ab10">Rosary Pea</string>
+    <string name="ac10">Manchineel</string>
+    <string name="ad10">Rosary Pea</string>
+    <string name="ca10">3</string>
+
+    <string name="q11">How many cores have the RELEASED AMD Ryzen Family processors as of date 06th April 2017.?</string>
+    <string name="aa11">2</string>
+    <string name="ab11">4</string>
+    <string name="ac11">6</string>
+    <string name="ad11">8</string>
+    <string name="ca11">9</string>
+
+    <string name="q12">How much water is there on, in, and above the Earth?</string>
+    <string name="aa12">138,600,000 cubic kilometers</string>
+    <string name="ab12">1,386,000,000 cubic kilometers</string>
+    <string name="ac12">13,860,000,000 cubic kilometers</string>
+    <string name="ad12">138,600,000,000 cubic kilometers</string>
+    <string name="ca12">2</string>
+
+    <string name="q13">13+25*(3+12/6)=?</string>
+    <string name="aa13">90</string>
+    <string name="ab13">95</string>
+    <string name="ac13">138</string>
+    <string name="ad13">190</string>
+    <string name="ca13">3</string>
+
+    <string name="q14">Which are battles of the Napoleonic Wars?</string>
+    <string name="aa14">Battle of Waterloo</string>
+    <string name="ab14">Battle of Pavia</string>
+    <string name="ac14">Battle of Austerlitz</string>
+    <string name="ad14">Battle of Leipzig</string>
+    <string name="ca14">8</string>
+
+    <string name="q15">What speeds Bugatti Veyron Super Sport capable of?</string>
+    <string name="aa15">408 km/h</string>
+    <string name="ab15">412 km/h</string>
+    <string name="ac15">415 km/h</string>
+    <string name="ad15">422 km/h</string>
+    <string name="ca15">6</string>
+
+    <string name="q16">Do you understand?</string>
+    <string name="aa16">Yes! What was it about?</string>
+    <string name="ab16">Not today!</string>
+    <string name="ac16">No. I mean yes.</string>
+    <string name="ad16">42</string>
+    <string name="ca16">10</string>
+
+</resources>
